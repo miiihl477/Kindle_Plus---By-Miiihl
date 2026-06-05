@@ -27,7 +27,7 @@ from utils import count_words
 
 st.set_page_config(
     page_title="Kindle_Plus - By Miiihl",
-    page_icon="✍️",
+    page_icon="📖",
     layout="wide",
     initial_sidebar_state="expanded",
 )
