@@ -178,7 +178,7 @@ def render_onboarding():
         background: linear-gradient(135deg, #0d0d1a 0%, #1a1035 50%, #0d1a2e 100%);
         border: 1px solid #2a2a4a; border-radius: 16px;
         padding: 3rem 2.5rem; text-align: center; margin-bottom: 2rem;">
-        <div style="font-size: 3.5rem; margin-bottom: 0.75rem">✍️</div>
+        <div style="font-size: 3.5rem; margin-bottom: 0.75rem">📖</div>
         <h1 style="font-family:'Playfair Display',Georgia,serif;font-size:2.4rem;
                    font-weight:700;color:#e2e8f0;letter-spacing:-0.03em;margin-bottom:0.5rem">
             Bem-vinda ao Kindle_Plus - By Miiihl</h1>
