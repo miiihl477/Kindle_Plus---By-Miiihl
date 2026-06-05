@@ -26,7 +26,7 @@ from utils import count_words
 # ═══════════════════════════════════════════════════════════════════════════════
 
 st.set_page_config(
-    page_title="WriterFlow",
+    page_title="Kindle_Plus - By Miiihl",
     page_icon="✍️",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -181,7 +181,7 @@ def render_onboarding():
         <div style="font-size: 3.5rem; margin-bottom: 0.75rem">✍️</div>
         <h1 style="font-family:'Playfair Display',Georgia,serif;font-size:2.4rem;
                    font-weight:700;color:#e2e8f0;letter-spacing:-0.03em;margin-bottom:0.5rem">
-            Bem-vinda ao WriterFlow</h1>
+            Bem-vinda ao Kindle_Plus - By Miiihl</h1>
         <p style="color:#94a3b8;font-size:1.05rem;max-width:540px;margin:0 auto">
             Sua plataforma para organizar, escrever e publicar histórias.
             Vamos começar com um livro de exemplo para você explorar tudo.</p>
@@ -1740,7 +1740,7 @@ if should_show_onboarding():
             <div style="font-family:'Playfair Display',serif;font-size:1.6rem;font-weight:700;
                         background:linear-gradient(135deg,#c084fc,#818cf8);
                         -webkit-background-clip:text;-webkit-text-fill-color:transparent">
-                WriterFlow</div>
+                Kindle_Plus - By Miiihl</div>
             <div style="color:#64748b;font-size:0.75rem;text-transform:uppercase;
                         letter-spacing:0.1em">Plataforma para Escritores</div>
         </div>""", unsafe_allow_html=True)
@@ -1758,7 +1758,7 @@ with st.sidebar:
         <div style="font-family:'Playfair Display',serif;font-size:1.6rem;font-weight:700;
                     background:linear-gradient(135deg,#c084fc,#818cf8);
                     -webkit-background-clip:text;-webkit-text-fill-color:transparent;
-                    letter-spacing:-0.03em">WriterFlow</div>
+                    letter-spacing:-0.03em">Kindle_Plus - By Miiihl</div>
         <div style="color:#64748b;font-size:0.75rem;letter-spacing:0.1em;
                     text-transform:uppercase;margin-top:-2px">Plataforma para Escritores</div>
     </div>""", unsafe_allow_html=True)
@@ -1815,7 +1815,7 @@ with st.sidebar:
         except Exception:
             pass
 
-    st.markdown('<div style="position:fixed;bottom:1rem;left:0;right:0;text-align:center;color:#2a2a4a;font-size:0.7rem">WriterFlow v2.0</div>', unsafe_allow_html=True)
+    st.markdown('<div style="position:fixed;bottom:1rem;left:0;right:0;text-align:center;color:#2a2a4a;font-size:0.7rem">Kindle_Plus - By Miiihl v2.0</div>', unsafe_allow_html=True)
 
 
 # ═══════════════════════════════════════════════════════════════════════════════
